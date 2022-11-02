@@ -5,3 +5,4 @@ node_modules
 cache.json
 config.json
 .idea
+sugar.log
